@@ -1,3 +1,0 @@
-Vectorised Implementation of Logistic regression for colinear variables written in octave/matlab.
-Includes:
-Plotting the data, the Cost Function, gradient descent, predicting the out-of sample data
