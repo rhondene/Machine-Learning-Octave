@@ -1,10 +1,4 @@
-# Machine-Learning-Octave
-This repository contains different machine learning algorithms I learnt from the Standford's Machine Learning Course taught by ML exper 
-Andrew Ng. 
-Algorithms so far :
-Linear Regression
-Binary Classification Logistic Regression 
-Multiclass Calssification Logistic Regression
-Artificial Neural Networks
-Regularisation 
-Advanced optimisation (fminunc fmincg)
+<b> Model Selection: Train/Cross/Test Validation  and Learning Curves </b>
+
+Contains code for adressing the high-variance - high bias problem so that the learning algorithm balances between fitting the dataset and being sufficiently generalisable to fit new data.
+Learning curves will be used to visualie the effect of altering the number of features and size of regularisation factor (lambda) by comparing the training error and cross validation error. 
